@@ -1,6 +1,6 @@
 name: Emcala Developments
 favicon: null
-layout_spectrum: 0.6703530659433454
+layout_spectrum: 0.85873
 typography_spectrum: 0.40855219890363514
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.13932088622823358
+    - '#ffffff'
+    - '#000000'
+    - '#c5c5c5'
+    - '#3b3b3b'
+    - '#717171'
+  brandStrength: 0.0625
   lightness: 0.921175348572433
   saturation: 0.7892387944739312
   rhythmicContrast: 0.07657474395819008
